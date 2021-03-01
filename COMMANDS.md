@@ -80,3 +80,4 @@ Actions:
 test_motor = Motor(Port.B)
 test_motor.run(100) # runs the motor at 100 constant speed
 ```
+***End of Docs***
